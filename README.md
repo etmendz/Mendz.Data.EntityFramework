@@ -1,5 +1,5 @@
 # Mendz.Data.EntityFramework
-Provides Mendz.Data-aware classes and types for creating Entity Framework-compatible contexts and repositories.
+Provides Mendz.Data-aware classes and types for creating Entity Framework-compatible contexts and repositories. [Wiki](https://github.com/etmendz/Mendz.Data.EntityFramework/wiki)
 ## Namespace
 Mendz.Data.EntityFramework
 ### Contents
