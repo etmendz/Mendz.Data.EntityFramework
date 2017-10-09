@@ -40,7 +40,7 @@ usually done via call to IServiceCollection.AddDbContext().
 Thus, the application does not even need to be aware of the DbContext instance itself. 
 #### EntityFrameworkDbRepositoryBase
 The purpose of EntityFrameworkDbRepositoryBase is to let developers create repositories
-that implement the Mendz.Data.Repository CRUDS interfaces. In a sense, this is an overkill bastardization of EF usage.
+that resemble how other Mendz.Data-aware repositories are coded. In a sense, this is an overkill bastardization of EF usage.
 It is still recommended that you use EF directly in your applications.
 Note that EF already implements the Unit of Work and Repository patterns internally.
 
