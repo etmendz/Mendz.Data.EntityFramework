@@ -1,5 +1,5 @@
 # ***Obsolete***
-*Please see [Mendz.Data Wiki](https://github.com/etmendz/Mendz.Data/wiki) for recommendation and samples.*
+*See [Mendz.Data Wiki](https://github.com/etmendz/Mendz.Data/wiki) for recommendation and samples.*
 # Mendz.Data.EntityFramework
 Provides Mendz.Data-aware classes and types for creating Entity Framework-compatible contexts and repositories. [Wiki](https://github.com/etmendz/Mendz.Data.EntityFramework/wiki)
 ## Namespace
